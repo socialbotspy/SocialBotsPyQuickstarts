@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # quickstart_templates/instapy/friends_last_post_likes_and_interact_with_user_based_on_hashtahs.py: 55
-PyYAML == 3.13
+PyYAML == 5.1
 
 # quickstart_templates/linkedinpy/foundersearch.py: 6
 # quickstart_templates/linkedinpy/foundersearchus.py: 6
